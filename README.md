@@ -1,1 +1,3 @@
-# alogrithmic-puzzles-java
+# Alogrithmic Puzzles Java
+
+### Just Started
